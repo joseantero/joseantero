@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning python...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseantero&show_icons=true&theme=radical)
-<img height="180em" src="https://camo.githubusercontent.com/26bb2e9b5c88cc17a0e09587b7f410384e5c4d1122ae5925d02540cc89a2a8e9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6172696f6a756e696f72646576266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseantero&amp;layout=compact&amp;langs_count=7&amp;theme=radical" style="max-width: 100%;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseantero&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseantero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **joseantero/joseantero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
