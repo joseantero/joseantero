@@ -1,5 +1,6 @@
 ### I'm José Antero 👋
 - 🌱 I’m currently learning python...
+- 🔭Lifelong learning
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseantero&show_icons=true&theme=dracula)
