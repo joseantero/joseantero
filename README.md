@@ -1,5 +1,5 @@
 ### I'm José Antero 👋
-- 🌱 I’m currently learning python...
+- 🌱 I’m currently learning Salesforce and python...
 - 🔭Lifelong learning
 
 
